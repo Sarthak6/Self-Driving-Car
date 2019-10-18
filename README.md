@@ -1,16 +1,1 @@
-# selfdriving-fa19
-Self Driving Car Decal taught by Machine Learning @ Berkeley, Fall 2019 at UC Berkeley.
-
-Feedback Form: https://forms.gle/gPYdVEArEbiJAKU27 
-
-Assignment Checkoffs: https://forms.gle/KoBy26SXTv1ksrZC7
-
-Duckietown Gym Repo: https://github.com/duckietown/gym-duckietown
-
-Lecture 1: https://docs.google.com/presentation/d/1Hx1Kn4Ed5AZdq9dBWSR_UXArz7w_y7s1z7yvWat3rHU/edit?usp=sharing
-
-Lecture 2: https://docs.google.com/presentation/d/1Z0XcjYqtZLf_6vZ0YR3FVVCIv5ozF2PdKrszwLaJgbs/edit?usp=sharing
-
-Lecture 3: https://docs.google.com/presentation/d/1kNSFGS4YsGZVjj9YLRKOGihZpR6Uudbtq5S5TXuOvAU/edit?usp=sharing
-
-Lecture 4: https://docs.google.com/presentation/d/1tA6xdRlfri3UO0XEGnZE1lfhKvL6Dptw7FO8Uai7QfY/edit?usp=sharing
+Implementation of various foundational algorithms in the field of Autonomous Driving. Builds towards a self-driving car in the Duckietown simulation. Basic techniques used include machine learning, object detection and segmentation, trajectory planning, and motion control.
